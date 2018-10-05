@@ -1,0 +1,56 @@
+/********************************** Index Page *************************************/
+
+.navbar-brand {
+    font-size: 400%;
+    font-family: monospace;
+}
+
+
+
+
+.deck1 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.deck2 {
+    margin-bottom: 10%;
+}
+
+.card-deck {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.margin-bottom {
+    margin-bottom: 25%;
+}
+
+
+
+
+
+
+/********************************** Categories Page*************************************/
+.page-footer {
+    background-color: #F8F9FA;
+}
+
+.footer-copyright {
+    background-color: #E9ECEF;
+}
+
+.py-3 {
+    color: #bababa;
+}
+
+.ft1 {
+    font-size: 85%;
+}
+
+.ft2 {
+    font-size: 85%;
+}
+
+
+    
